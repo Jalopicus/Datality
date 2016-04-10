@@ -94,10 +94,10 @@ namespace Datality {
     public class Brand : Bass {
         public string Name { get; set; }
         public string FullName { get; set; }
-        public StreetAddress StreetAddress { get; set; }
-        public UrlAttribute WebSite { get; set; }
-        public PhoneAttribute Phone { get; set; }
-        public EmailAddressAttribute Email { get; set; }
+        //public StreetAddress StreetAddress { get; set; }
+        //public UrlAttribute WebSite { get; set; }
+        //public PhoneAttribute Phone { get; set; }
+        //public EmailAddressAttribute Email { get; set; }
         public string Contact { get; set; }
     }
     

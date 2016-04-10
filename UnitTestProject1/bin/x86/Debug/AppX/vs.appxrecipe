@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>80bf0255-fda4-4586-bbdc-402364e7f731</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>0729FCB91F0F3AE365FEC1DC3000979FB754B3EF36368E8AFFEDAD057FD39702</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>80bf0255-fda4-4586-bbdc-402364e7f731_1.0.0.0_x86__7nrj7np8tnx5y</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>80bf0255-fda4-4586-bbdc-402364e7f731_7nrj7np8tnx5y!vstest.executionengine.universal.App</RegisteredUserModeAppID>
@@ -19,16 +19,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-03T19:21:27.260</Modified>
+      <Modified>2016-04-10T04:39:21.827</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\x86\Debug\UnitTestProject1.exe">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\bin\x86\Debug\UnitTestProject1.exe">
       <PackagePath>entrypoint\UnitTestProject1.exe</PackagePath>
-      <Modified>2016-04-03T19:21:25.874</Modified>
+      <Modified>2016-04-10T04:38:50.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\TestPlatform.Universal\14.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
       <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
@@ -538,9 +538,9 @@
       <PackagePath>sqlite3.dll</PackagePath>
       <Modified>2016-03-29T23:44:14.985</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ClassLibrary1.dll">
-      <PackagePath>ClassLibrary1.dll</PackagePath>
-      <Modified>2016-04-03T19:05:25.235</Modified>
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\Datality\bin\x86\Debug\Datality.dll">
+      <PackagePath>Datality.dll</PackagePath>
+      <Modified>2016-04-10T04:38:38.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bry\.nuget\packages\Microsoft.NETCore.Runtime.CoreCLR-x86\1.0.0\runtimes\win7-x86\native\clretwrc.dll">
       <PackagePath>clretwrc.dll</PackagePath>
@@ -602,75 +602,75 @@
       <PackagePath>vstest_executionengine_platformbridge.winmd</PackagePath>
       <Modified>2015-11-20T01:31:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Properties\UnitTestApp.rd.xml">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Properties\UnitTestApp.rd.xml">
       <PackagePath>Properties\UnitTestApp.rd.xml</PackagePath>
-      <Modified>2016-04-03T18:08:58.890</Modified>
+      <Modified>2016-04-10T04:30:57.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bry\.nuget\packages\entityframework.commands\7.0.0-rc1-final\lib\net451\EntityFramework.Commands.xml">
-      <PackagePath>ClassLibrary1\EntityFramework.Commands.xml</PackagePath>
+      <PackagePath>Datality\EntityFramework.Commands.xml</PackagePath>
       <Modified>2016-03-29T23:42:40.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bry\.nuget\packages\EntityFramework.Relational.Design\7.0.0-rc1-final\lib\net451\EntityFramework.Relational.Design.xml">
-      <PackagePath>ClassLibrary1\EntityFramework.Relational.Design.xml</PackagePath>
+      <PackagePath>Datality\EntityFramework.Relational.Design.xml</PackagePath>
       <Modified>2016-03-29T23:42:39.715</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-10-11T01:09:42.000</Modified>
+      <Modified>2016-04-10T04:30:45.860</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-11T01:09:42.000</Modified>
+      <Modified>2016-04-10T04:30:45.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-11T01:09:42.000</Modified>
+      <Modified>2016-04-10T04:30:45.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-11T01:09:42.000</Modified>
+      <Modified>2016-04-10T04:30:45.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-11T01:09:42.000</Modified>
+      <Modified>2016-04-10T04:30:45.889</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-11T01:09:42.000</Modified>
+      <Modified>2016-04-10T04:30:45.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-11T01:09:42.000</Modified>
+      <Modified>2016-04-10T04:30:45.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\x86\Debug\UnitTestProject1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\bin\x86\Debug\UnitTestProject1.xr.xml">
       <PackagePath>UnitTestProject1.xr.xml</PackagePath>
-      <Modified>2016-04-03T19:10:56.238</Modified>
+      <Modified>2016-04-10T04:30:57.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bry\.nuget\packages\entityframework.commands\7.0.0-rc1-final\lib\net451\EntityFramework.Commands.dll">
-      <PackagePath>ClassLibrary1\EntityFramework.Commands.dll</PackagePath>
+      <PackagePath>Datality\EntityFramework.Commands.dll</PackagePath>
       <Modified>2016-03-29T23:42:40.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bry\.nuget\packages\EntityFramework.Relational.Design\7.0.0-rc1-final\lib\net451\EntityFramework.Relational.Design.dll">
-      <PackagePath>ClassLibrary1\EntityFramework.Relational.Design.dll</PackagePath>
+      <PackagePath>Datality\EntityFramework.Relational.Design.dll</PackagePath>
       <Modified>2016-03-29T23:42:39.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-03-23T03:49:24.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-04-03T19:15:18.289</Modified>
+      <Modified>2016-04-10T04:39:13.774</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\bry\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\x86\Debug\Core\UnitTestProject1.exe">
+    <AppxPackagedFile Include="C:\Users\bry\Documents\GitHubVisualStudio\Datality\UnitTestProject1\bin\x86\Debug\Core\UnitTestProject1.exe">
       <PackagePath>UnitTestProject1.exe</PackagePath>
-      <Modified>2016-04-03T19:21:27.250</Modified>
+      <Modified>2016-04-10T04:39:21.812</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
