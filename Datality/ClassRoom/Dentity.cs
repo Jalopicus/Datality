@@ -5,9 +5,9 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 using Microsoft.Data.Entity;
 using System.ComponentModel.DataAnnotations.Schema;
-using Datality.ClassRoom;
+using Fuckery.ClassRoom;
 
-namespace Datality {
+namespace Fuckery {
     public class DatalityContext : DbContext {
         public DbSet<Raw> Raws { get; set; }
         public DbSet<Blend> Blends { get; set; }
@@ -110,7 +110,7 @@ namespace Datality {
     public class Reggo : Bass {
         public long Cercla { get { return _cercla; } set { _cercla = value; OnPC("Cercla"); } }
         private long _cercla;
-        bool[] Sara = new bool[5];
+
         public string Epa { get { return _epa; } set { _epa = value; OnPC("Epa"); } }
         private string _epa;
         public bool Nsf { get { return _nsf; } set { _nsf = value; OnPC("Nsf"); } }
@@ -119,8 +119,8 @@ namespace Datality {
         private bool _kosher = false;
         public bool Fda { get { return _fda; } set { _fda = value; OnPC("Fda"); } }
         private bool _fda = false;
-        public Sara313 Sara313;
-        public LegacyRatings LegacyRatings;
+        //public Sara Sara { get; set; }
+        public LegacyRatings LegacyRatings { get; set; }
     }
   public class Transport : Bass {
         public string Un;

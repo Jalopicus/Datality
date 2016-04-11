@@ -33,7 +33,7 @@ namespace Employeurism {
         }
         private void Next_Click (object sender, RoutedEventArgs e) {
             Minion.MinionNext();
-            ProductPane.DataContext = null; ProductPane.DataContext = Minion.Product;
+            ProductPane.DataContext = null; ProductPane.DataContext = Minion.Pro;
         }
     }
 }

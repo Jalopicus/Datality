@@ -13,7 +13,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <StackPanel x:Name="ProductPane" Orientation="Vertical" DataContext="{x:Bind Path=Minion.Product}">
+        <StackPanel x:Name="ProductPane" Orientation="Vertical" DataContext="{x:Bind Path=Minion.Pro}">
             <TextBlock Text="Brontosauruses"/>
             <TextBlock Text="Name"/>
             <TextBox Text="{Binding Name, Mode=TwoWay}"/>

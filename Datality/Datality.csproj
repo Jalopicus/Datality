@@ -107,8 +107,8 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassRoom\SubClasses.cs" />
-    <Compile Include="Dentity.cs" />
+    <Compile Include="AshleyGraham.cs" />
+    <Compile Include="ComplexTypes.cs" />
     <Compile Include="Minions\TestMinion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\ClassLibrary1.rd.xml" />

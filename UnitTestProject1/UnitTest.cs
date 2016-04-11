@@ -12,19 +12,19 @@ namespace UnitTestProject1
             var R = new Raw { Name = "raw" };
             var RT = new Raw { Name = "raw2" };
 
-            var P = new Product { Name = "praw" };
-            var PT = new Product { Name = "praw2" };
+            var P = new Pro { Name = "praw" };
+            var PT = new Pro { Name = "praw2" };
             var B = new Blend { Name = "Blend" };
             var BT = new Blend { Name = "Blend2" };
-            using (var dt = new DatalityContext()) {
+            using (var dt = new AshleyGraham()) {
                 dt.Database.EnsureCreated();
-                dt.Products.AddRange( P,PT);
+                dt.Pros.AddRange( P,PT);
                 dt.Raws.AddRange(R, RT);
                 dt.Blends.AddRange(B, BT);
                 dt.SaveChanges();
             }
 
-            using (var dt = new DatalityContext()) {
+            using (var dt = new AshleyGraham()) {
 
                 var a = dt.Model.ToString();
                     }

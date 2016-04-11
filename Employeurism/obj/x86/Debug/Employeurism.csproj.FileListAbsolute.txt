@@ -339,3 +339,14 @@ C:\Users\bry\documents\visual studio 2015\Projects\ClassLibrary1\Employeurism\ob
 C:\Users\bry\documents\visual studio 2015\Projects\ClassLibrary1\Employeurism\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\bry\documents\visual studio 2015\Projects\ClassLibrary1\Employeurism\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\bry\documents\visual studio 2015\Projects\ClassLibrary1\Employeurism\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\Employeurism.csprojResolveAssemblyReference.cache
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\App.g.i.cs
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\App.g.cs
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\MainPage.g.cs
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\App.xaml
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\MainPage.xaml
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\App.xbf
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\MainPage.xbf
+C:\Users\bry\Documents\GitHubVisualStudio\Datality\Employeurism\obj\x86\Debug\XamlSaveStateFile.xml
